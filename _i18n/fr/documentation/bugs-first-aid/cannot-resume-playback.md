@@ -1,18 +1,30 @@
-Dans Android 13 et Android 14, il n'est pas toujours possible de reprendre la lecture à partir de l'écran de verrouillage ou de la notification multimédia. Cela se produit notamment lorsque la lecture a été interrompue pendant un certain temps.
+Dans Android 13 et Android 14, il n'est pas toujours possible de reprendre la
+lecture à partir de l'écran de verrouillage ou de la notification multimédia.
+Cela se produit notamment lorsque la lecture a été interrompue pendant un
+certain temps.
 
-La raison de ce problème n'est pas claire pour l'instant. Nous avons constaté que le même problème affecte d'autres applications, y compris les applications de Google. Nous pensons donc qu'il s'agit d'un problème lié à Android.
+La raison de ce problème n'est pas claire pour l'instant. Nous avons constaté
+que le même problème affecte d'autres applications, y compris les applications
+de Google. Nous pensons donc qu'il s'agit d'un problème lié à Android.
 
 ## Solution de contournement
 
-Pour pouvoir reprendre la lecture, vous pouvez ajouter la "tuile" AntennaPod à votre appareil. Les tuiles sont en pratique les boutons que vous voyez lorsque vous tirez vers le bas à partir du haut de l'écran. Vous connaissez probablement la tuile *Internet" ou la tuile *Lampe de poche*. La tuile AntennaPod vous permet de lancer et d'interrompre la lecture, même si celle-ci a été interrompue pendant un certain temps.
+Pour pouvoir reprendre la lecture, vous pouvez ajouter la "tuile" AntennaPod à
+votre appareil. Les tuiles sont en pratique les boutons que vous voyez lorsque
+vous tirez vers le bas à partir du haut de l'écran. Vous connaissez probablement
+la tuile *Internet" ou la tuile *Lampe de poche*. La tuile AntennaPod vous
+permet de lancer et d'interrompre la lecture, même si celle-ci a été interrompue
+pendant un certain temps.
 
-Pour ajouter la tuile AntennaPod :
-
-1. **Balayez deux fois** depuis le haut de l'écran pour ouvrir entièrement les Réglages rapides. Sur certaines versions d'Android (par exemple Samsung One UI ou Xiaomi MIUI), un Centre de contrôle équivalent avec des gestes similaires peut déjà contenir une tuile multimédia. Vérifiez vos paramètres d'appareil si celui-ci se comporte différemment
-
-1. **Tapez sur l'icône du crayon** en bas de la section des tuiles pour modifier les tuiles
-
-1. Faites défiler la liste des tuiles, **faites glisser la tuile AntennaPod** vers le haut dans la liste des tuiles actives
-
-1. Touchez la **flèche de retour** ou **enregistrer** pour quitter l'édition des tuiles
-
+Pour ajouter la tuile AntennaPod :
+1. **Balayez deux fois** depuis le haut de l'écran pour ouvrir entièrement les
+   Réglages rapides. Sur certaines versions d'Android (par exemple Samsung One
+   UI ou Xiaomi MIUI), un Centre de contrôle équivalent avec des gestes
+   similaires peut déjà contenir une tuile multimédia. Vérifiez vos paramètres
+   d'appareil si celui-ci se comporte différemment
+2. **Tapez sur l'icône du crayon** en bas de la section des tuiles pour modifier
+   les tuiles
+3. Faites défiler la liste des tuiles, **faites glisser la tuile AntennaPod**
+   vers le haut dans la liste des tuiles actives
+4. Touchez la **flèche de retour** ou **enregistrer** pour quitter l'édition des
+   tuiles
