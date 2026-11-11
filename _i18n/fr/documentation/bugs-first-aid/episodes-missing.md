@@ -1,5 +1,18 @@
-AntennaPod est une [application de podcast décentralisée](/documentation/general/central-distributed). Cela signifie qu'il n'y a pas de serveur central capable de tout savoir à propos de chaque podcast.
+AntennaPod est une [application de podcast
+décentralisée](/documentation/general/central-distributed). Cela signifie qu'il
+n'y a pas de serveur central capable de tout savoir à propos de chaque podcast.
 
-Les informations sur les épisodes proviennent donc directement du site Web de l’éditeur. Lorsque vous êtes abonné à un podcast, AntennaPod copie et stocke les informations relatives à chaque nouvel épisode dans l'application. Ces informations sont conservées même si elles ne sont plus disponibles sur le site de l’éditeur.
+Les informations sur les épisodes proviennent donc directement du site Web de
+l’éditeur. Lorsque vous êtes abonné à un podcast, AntennaPod copie et stocke les
+informations relatives à chaque nouvel épisode dans l'application. Ces
+informations sont conservées même si elles ne sont plus disponibles sur le site
+de l’éditeur.
 
-De nombreux éditeurs ne conservent en ligne (les informations sur) que les épisodes les plus récents. Ainsi, lorsque vous venez de vous abonner à un podcast, votre installation AntennaPod n’a pas accès aux informations relatives aux épisodes plus anciens. Pour que tous les épisodes passés soient répertoriés dans l'application, vous pouvez contacter le podcasteur et lui demander de (contacter son hébergeur pour) prendre en charge les "flux paginés" ([informations techniques](https://datatracker.ietf.org/doc/html/rfc5005#section-3)).
+De nombreux éditeurs ne conservent en ligne (les informations sur) que les
+épisodes les plus récents. Ainsi, lorsque vous venez de vous abonner à un
+podcast, votre installation AntennaPod n’a pas accès aux informations relatives
+aux épisodes plus anciens. Pour que tous les épisodes passés soient répertoriés
+dans l'application, vous pouvez contacter le podcasteur et lui demander de
+(contacter son hébergeur pour) prendre en charge les "flux paginés"
+([informations
+techniques](https://datatracker.ietf.org/doc/html/rfc5005#section-3)).
