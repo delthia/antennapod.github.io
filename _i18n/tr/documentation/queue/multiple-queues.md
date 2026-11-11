@@ -1,1 +1,4 @@
-Şu anda birden fazla kuyruk desteklenmiyor. Daha fazla bilgi için lütfen GitHub'daki [issue 2648](https://github.com/ AntennaPod / AntennaPod /issues/2648) adresine bakın ve/veya herhangi bir gelişme olması durumunda güncelleme almak için soruna abone olun .
+Şu anda birden fazla kuyruk desteklenmiyor. Daha fazla bilgi için lütfen
+GitHub'daki [issue 2648](https://github.com/ AntennaPod / AntennaPod
+/issues/2648) adresine bakın ve/veya herhangi bir gelişme olması durumunda
+güncelleme almak için soruna abone olun .
