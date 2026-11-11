@@ -1,1 +1,3 @@
-Com a projecte comunitari, AntennaPod es basa en contribucions voluntàries de codi d'una àmplia gamma de persones. No només per a l'app en si, sinó també per a la pàgina web i els projectes relacionats.
+Com a projecte comunitari, AntennaPod es basa en contribucions voluntàries de
+codi d'una àmplia gamma de persones. No només per a l'app en si, sinó també per
+a la pàgina web i els projectes relacionats.

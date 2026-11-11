@@ -1,8 +1,13 @@
-Voulez-vous que votre réseau ou votre public puisse facilement ajouter votre (vos) podcast(s) à AntennaPod ? Il vous suffit d'inclure un lien tel que celui présenté ci-dessous sur votre site web ou à l'endroit de votre choix. Veillez à remplacer `xyz` par l'URL de votre flux RSS et `abc` par le titre de votre podcast.
+Voulez-vous que votre réseau ou votre public puisse facilement ajouter votre
+(vos) podcast(s) à AntennaPod ? Il vous suffit d'inclure un lien tel que celui
+présenté ci-dessous sur votre site web ou à l'endroit de votre choix. Veillez à
+remplacer `xyz` par l'URL de votre flux RSS et `abc` par le titre de votre
+podcast.
 
 `https://antennapod.org/deeplink/subscribe?url=xyz&title=abc`
 
-Vous pouvez aussi transformer le même lien en un bouton, par exemple en utilisant le code suivant :
+Vous pouvez aussi transformer le même lien en un bouton, par exemple en
+utilisant le code suivant :
 
 ```
 <style>.antennapod-subscribe{ color: #fff; background: #007bff; display: inline-block; padding: 0.5em; text-decoration:none; border-radius:0.5em; font-family: sans-serif;} .antennapod-subscribe:hover {background: #0069d9;}</style>
@@ -10,29 +15,33 @@ Vous pouvez aussi transformer le même lien en un bouton, par exemple en utilisa
 ```
 
 # Ce que voient les utilisateurs
+Les utilisateurs qui ont installé AntennaPod et ouvrent ce lien seront en mesure
+de voir des aperçus des épisodes et de s'abonner à votre podcast directement
+depuis l'application, comme on peut le voir dans les captures d'écran
+ci-dessous.
 
-Les utilisateurs qui ont installé AntennaPod et ouvrent ce lien seront en mesure de voir des aperçus des épisodes et de s'abonner à votre podcast directement depuis l'application, comme on peut le voir dans les captures d'écran ci-dessous.
-
+<!-- mdpo-disable -->
 {% include image.html alt= "
 
+    Browser asking to open a link in AntennaPod
 
-     Browser asking to open a link in AntennaPod
-    
      "
-
 loc="/assets/images/documentation" file="open-in-ap1.png" max-width="400px" %}
 
 {% include image.html alt= "
 
+    Browser asking to open a link in AntennaPod
 
-     The same link displayed in AntennaPod
-    
      "
-
 loc="/assets/images/documentation" file="open-in-ap2.png" max-width="400px" %}
+<!-- mdpo-enable -->
 
-D'un autre côté, les utilisateurs qui n'ont pas installé AntennaPod verront une page avec les instructions pour télécharger l'application ou souscrire à votre podcast manuellement, comme sur [cette page d'exemple](/deeplink/subscribe?url=https://antennapod.org/rss.xml&title=Blog+Posts).
+D'un autre côté, les utilisateurs qui n'ont pas installé AntennaPod verront une
+page avec les instructions pour télécharger l'application ou souscrire à votre
+podcast manuellement, comme sur [cette page
+d'exemple](/deeplink/subscribe?url=https://antennapod.org/rss.xml&title=Blog+Posts).
 
 # Image de marque
-
-Vous souhaitez utiliser notre logo pour créer un bouton personnalisé 'Ouvrir dans AntennaPod' ? Vous le trouverez dans notre [dépôt "Branding"](https://github.com/AntennaPod/branding).
+Vous souhaitez utiliser notre logo pour créer un bouton personnalisé 'Ouvrir
+dans AntennaPod' ? Vous le trouverez dans notre [dépôt
+"Branding"](https://github.com/AntennaPod/branding).

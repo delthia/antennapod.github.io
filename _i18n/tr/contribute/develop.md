@@ -1,1 +1,3 @@
-Bir topluluk projesi olarak AntennaPod, çok çeşitli insanların gönüllü kod katkılarına dayanmaktadır. Sadece uygulamanın kendisi için değil, aynı zamanda web sitesi ve ilgili projeler için gereklidir.
+Bir topluluk projesi olarak AntennaPod, çok çeşitli insanların gönüllü kod
+katkılarına dayanmaktadır. Sadece uygulamanın kendisi için değil, aynı zamanda
+web sitesi ve ilgili projeler için gereklidir.

@@ -1,1 +1,3 @@
-Como proyecto comunitario, AntennaPod depende de las contribuciones voluntarias de código de un amplio abanico de personas. No solo para la propia aplicación, sino también para el sitio web y los proyectos relacionados.
+Como proyecto comunitario, AntennaPod depende de las contribuciones voluntarias
+de código de un amplio abanico de personas. No solo para la propia aplicación,
+sino también para el sitio web y los proyectos relacionados.

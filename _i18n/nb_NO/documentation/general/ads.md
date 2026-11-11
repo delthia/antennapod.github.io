@@ -1,19 +1,54 @@
-De offisielle versjonene av AntennaPod inneholder ingen annonser. Appen er utviklet av frivillige uten kommersielle interesser og prosjektet er avhengig av donasjoner for å dekke kostnadene. Ettersom AntennaPod sin [kildekode](https://github.com/AntennaPod/AntennaPod) og [inntekter og utgifter](https://opencollective.com/antennapod#category-BUDGET) er offentlige kan alle kontrollere dette.
+De offisielle versjonene av AntennaPod inneholder ingen annonser. Appen er
+utviklet av frivillige uten kommersielle interesser og prosjektet er avhengig av
+donasjoner for å dekke kostnadene. Ettersom AntennaPod sin
+[kildekode](https://github.com/AntennaPod/AntennaPod) og [inntekter og
+utgifter](https://opencollective.com/antennapod#category-BUDGET) er offentlige
+kan alle kontrollere dette.
 
 Hvis du ser annonser, kan dette ha to årsaker:
 
-### 1. Du lastet ned en uoffisiell versjon av AntennaPod
+## AntennaPod does not add ads
 
-AntennaPod er basert på åpen kildekode. Det betyr at hvem som helst kan laste ned kildekoden. Dessverre tar noen utviklere tar AntennaPod setter inn annonser og publiserer den deretter som en ny app. Du kan få den offisielle AntennaPod-appen på [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) og [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/). Du kan til og med få den nyeste utgivelsen fra [GitHub](https://github.com/AntennaPod/AntennaPod/) og bygge AntennaPod selv!
+AntennaPod plays podcasts just like they were published by the creators. If they
+include ads, AntennaPod plays them. We have nothing to do with those ads, so all
+revenues go to the creators and/or their hosting company.
 
-### 2. Podkast-skaperne eller deres vertsfirma har lagt til annonsene i episodebeskrivelsen eller lydfilen
+## Why are ads localized
 
-AntennaPod spiller av podkaster akkurat slik de ble publisert av skaperne. Hvis de inneholder annonser, spiller AntennaPod dem av. Vi har ingenting med disse annonsene å gjøre, så alle inntektene går til skaperne og/eller vertsselskapet deres.
+Now, you might ask something like "But then why is the podcast in English and
+the ad in German?" or "But why is the podcast episode from 2008 but still
+promotes a product released in 2023?". The reason is a technique called _dynamic
+ad insertion_. Podcast creators can instruct the hosting company to insert those
+ads. Then, while downloading or streaming the episode with AntennaPod, the media
+file delivered to AntennaPod gets cut on-the-fly to include the ads. The ads are
+recent (while the episode might not be) and can be targeted based on the IP
+address from which you request the media file (e.g. a company in your country).
+Depending on how smart the hosting company does this, the ads might get inserted
+right in the middle of a sentence. Some of the hosting companies also mess up
+the chapter marks while inserting the ads (so the chapters are off by the
+duration of the ad).
 
-Nå spør du kanskje noe som "Men hvorfor er podkasten på engelsk og annonsen på norsk?" eller "Men hvorfor er podkastepisoden fra 2008, men markedsfører fortsatt et produkt som ble utgitt i 2025?". Årsaken er en teknikk som kalles *dynamisk annonseinnsetting*. Podkast-skapere kan instruere vertsselskapet om å sette inn disse annonsene. Når du laster ned eller strømmer episoden med AntennaPod, blir mediefilen som leveres til AntennaPod, kuttet underveis for å inkludere annonsene. Annonsene er nye (mens episoden kanskje ikke er det) og kan målrettes basert på IP-adressen du ber om mediefilen fra (f.eks. et selskap i ditt land). Avhengig av hvor smart vertsselskapet gjør dette, kan annonsene bli satt inn midt i en setning. Noen av vertsselskapene roter også til kapittelmarkeringene når de setter inn annonsene (slik at kapitlene ikke stemmer med annonsens varighet).
+## What you can do
 
-Du kan alltid bruke hurtigspolingsknappen i AntennaPod for å hoppe over annonsene. Hvis du strømmer en episode i stedet for å laste ned, har vertsselskapet en idé om hvor langt du er kommet i podkasten. Det kan være mulig at selskapet oppdager at du har hoppet over reklamen og setter inn en ny. Hvis du i stedet laster ned episoden, kan de ikke gjøre det, og du kan hoppe over annonsene mer pålitelig. (Nedlasting er også bedre for personvernet ditt, for da vet ikke vertsselskapet når du lytter til hvilken del av episoden. AntennaPod kan konfigureres til å laste ned og senere slette episoder automatisk, slik at du ikke trenger å gjøre det manuelt.)
+Here is what you can do against those ads.
 
-I tillegg tilbyr mange podkastprodusenter en reklamefri strøm som du kan kjøpe. Vanligvis får du da enten en hemmelig nettadresse til podkast-strømmen, eller alternativt brukernavn og passord som du kan angi i AntennaPod.
+### Skipping
 
-Hvis du synes disse annonsene er irriterende, kan du vurdere å snakke med podkastskaperne om dette.
+You can always use the fast forward button in AntennaPod to skip the ads. If you
+are streaming an episode instead of downloading, the hosting company has an idea
+of how far you are in the podcast. It might be possible that the company detects
+the fact that you skipped the ad and insert a new one. If you instead download
+the episode, they cannot do that and you can skip the ads more reliably.
+(Downloading is also better for your privacy because then the hosting company
+does not know when you listen to which section of the episode. AntennaPod can be
+configured to automatically download and later delete episodes, so you don't
+have to do that manually.)
+
+### Switch to an ad-free feed
+
+Additionally, many podcast creators provide an ad-free feed that you can buy.
+Usually, you then either get a secret podcast feed URL, or alternatively
+username and password that you can enter in AntennaPod.
+
+If you find these ads annoying, consider talking to the podcast creators about
+this.

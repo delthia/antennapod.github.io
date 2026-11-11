@@ -1,1 +1,4 @@
-Flere køer støttes for øyeblikket ikke. Se [sak 2648](https://github.com/AntennaPod/AntennaPod/issues/2648) på GitHub for mer informasjon og/eller abonner på saken for å bli oppdatert i tilfelle det skjer noe nytt.
+Flere køer støttes for øyeblikket ikke. Se [sak
+2648](https://github.com/AntennaPod/AntennaPod/issues/2648) på GitHub for mer
+informasjon og/eller abonner på saken for å bli oppdatert i tilfelle det skjer
+noe nytt.

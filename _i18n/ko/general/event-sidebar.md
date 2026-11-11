@@ -6,4 +6,7 @@
 
 [모임 제안하기](https://forum.antennapod.org)
 
-{% assign calendar_base_url = site.data.event-links | where: 'key', 'calendar-path' | map: 'url' | first %} <a href="{{ calendar_base_url }}all-events" onclick="copyUrl(event);" data-bs-toggle="tooltip" data-bs-trigger="manual" data-bs-title="{% t generic.accessibility.copied %}" data-copy-url="{{ calendar_base_url }}all-events">우리 행사를 캘린더에 추가</a>
+{% assign calendar_base_url = site.data.event-links | where: 'key',
+'calendar-path' | map: 'url' | first %}
+<a href="{{ calendar_base_url }}all-events" onclick="copyUrl(event);" data-bs-toggle="tooltip" data-bs-trigger="manual" data-bs-title="{% t generic.accessibility.copied %}" data-copy-url="{{ calendar_base_url }}all-events">우리
+행사를 캘린더에 추가</a>

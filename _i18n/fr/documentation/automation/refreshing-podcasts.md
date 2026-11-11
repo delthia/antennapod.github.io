@@ -1,5 +1,18 @@
-Par défaut, tous les podcasts sont actualisés toutes les 12 heures afin de récupérer de nouveaux épisodes. Vous pouvez modifier ou désactiver la fréquence des mises à jour automatiques via `Préférences` → `Téléchargements` → `Actualiser les podcasts`.
+Par défaut, tous les podcasts sont actualisés toutes les 12 heures afin de
+récupérer de nouveaux épisodes. Vous pouvez modifier ou désactiver la fréquence
+des mises à jour automatiques via `Préférences` → `Téléchargements` →
+`Actualiser les podcasts`.
 
-Vous pouvez également désactiver ce processus pour des podcasts individuels si la mise à jour d'un podcast n'est pas nécessaire. Vous pouvez utiliser cette option, par exemple, si un podcast ne publie plus de nouveaux épisodes. Alternativement, il peut y avoir un podcast dont vous ne souhaitez écouter un épisode que de temps en temps. Vous pouvez régler cela en accédant à un podcast, en appuyant sur l'icône `Engrenage` et en modifiant le paramètre `Maintenir à jour`.
+Vous pouvez également désactiver ce processus pour des podcasts individuels si
+la mise à jour d'un podcast n'est pas nécessaire. Vous pouvez utiliser cette
+option, par exemple, si un podcast ne publie plus de nouveaux épisodes.
+Alternativement, il peut y avoir un podcast dont vous ne souhaitez écouter un
+épisode que de temps en temps. Vous pouvez régler cela en accédant à un podcast,
+en appuyant sur l'icône `Engrenage` et en modifiant le paramètre `Maintenir à
+jour`.
 
-Lorsque vous désactivez ce paramètre de podcast, le podcast ne sera plus mis à jour lorsque les podcasts sont automatiquement actualisés, ou lorsque vous lancez ce processus depuis l’écran `File d’attente` ou `Épisodes`. Vous pouvez toujours actualiser ce podcast, ce qui récuperera les nouveaux épisodes dans AntennaPod.
+Lorsque vous désactivez ce paramètre de podcast, le podcast ne sera plus mis à
+jour lorsque les podcasts sont automatiquement actualisés, ou lorsque vous
+lancez ce processus depuis l’écran `File d’attente` ou `Épisodes`. Vous pouvez
+toujours actualiser ce podcast, ce qui récuperera les nouveaux épisodes dans
+AntennaPod.

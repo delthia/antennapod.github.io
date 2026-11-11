@@ -1,5 +1,19 @@
-Wenn du eine Episode angehört hast, möchtest du sie in den meisten Fällen löschen, um Speicherplatz freizugeben. Es gibt verschiedene Möglichkeiten, Episoden zu löschen.
+Wenn du eine Episode angehört hast, möchtest du sie in den meisten Fällen
+löschen, um Speicherplatz freizugeben. Es gibt verschiedene Möglichkeiten,
+Episoden zu löschen.
 
-Erstens kannst du Episoden natürlich manuell löschen. Wenn du die Warteschlange oder einen bestimmten Podcast aufrufst, kannst du lange auf eine Episode drücken und auf `Löschen` tippen. Im Bildschirm `Downloads` kannst du auch einfach auf das Papierkorb-Symbol tippen. Wenn du möchtest, kann AntennaPod eine Episode automatisch aus der Warteschlange entfernen, sobald sie gelöscht wird. Diese Option findest du unter `Einstellungen` » `Downloads` » `Gelöschte aus Warteschlange entfernen`. Beachte, dass der Bildschirm `Warteschlange` nicht alle Downloads anzeigt. Verwende den Bildschirm `Downloads`, wenn du alle Downloads sehen möchtest.
+Erstens kannst du Episoden natürlich manuell löschen. Wenn du die Warteschlange
+oder einen bestimmten Podcast aufrufst, kannst du lange auf eine Episode drücken
+und auf `Löschen` tippen. Im Bildschirm `Downloads` kannst du auch einfach auf
+das Papierkorb-Symbol tippen. Wenn du möchtest, kann AntennaPod eine Episode
+automatisch aus der Warteschlange entfernen, sobald sie gelöscht wird. Diese
+Option findest du unter `Einstellungen` » `Downloads` » `Gelöschte aus
+Warteschlange entfernen`. Beachte, dass der Bildschirm `Warteschlange` nicht
+alle Downloads anzeigt. Verwende den Bildschirm `Downloads`, wenn du alle
+Downloads sehen möchtest.
 
-Zweitens verfügt AntennaPod über einige Lösungen zum automatischen Löschen von Episoden. Insbesondere kann AntennaPod Episoden automatisch löschen, wenn die Wiedergabe beendet ist und wenn Speicherplatz für das automatische Herunterladen benötigt wird. Weitere Informationen zu diesen Optionen findest du unter [Automatisches Löschen](/de/documentation/automation/deletion).
+Zweitens verfügt AntennaPod über einige Lösungen zum automatischen Löschen von
+Episoden. Insbesondere kann AntennaPod Episoden automatisch löschen, wenn die
+Wiedergabe beendet ist und wenn Speicherplatz für das automatische Herunterladen
+benötigt wird. Weitere Informationen zu diesen Optionen findest du unter
+[Automatisches Löschen](/documentation/automation/deletion).

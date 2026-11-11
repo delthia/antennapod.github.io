@@ -1,19 +1,54 @@
-As versións oficiais de AntennaPod non inseren anuncios. A aplicación está desenvolta por voluntarios sen interese comercial e o proxecto depende de doazóns para cubrir custos. Dado que o [código fonte](https://github.com/AntennaPod/AntennaPod) e os [ingresos e gastos](https://opencollective.com/antennapod#category-BUDGET) de AntennaPod son públicos, todo o mundo é libre de comprobalo.
+As versións oficiais de AntennaPod non inseren anuncios. A aplicación está
+desenvolta por voluntarios sen interese comercial e o proxecto depende de
+doazóns para cubrir custos. Dado que o [código
+fonte](https://github.com/AntennaPod/AntennaPod) e os [ingresos e
+gastos](https://opencollective.com/antennapod#category-BUDGET) de AntennaPod son
+públicos, todo o mundo é libre de comprobalo.
 
 Se estás a ver anuncios, isto pode ter dúas razóns:
 
-### 1. Descargaches unha versión non oficial de AntennaPod
+## AntennaPod does not add ads
 
-AntennaPod é de código aberto. Isto significa que calquera pode descargar o código fonte. Por desgraza, algúns desarrolladores toman AntennaPod, inseren anuncios e logo publícano como unha nova app. Podes conseguir a aplicación oficial de AntennaPod en [Google Play](https://play.google.com/store/apps/details?ide=de.danoeh.antennapod) e [F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/). Mesmo podes conseguir a última versión en [GitHub](https://github.com/AntennaPod/AntennaPod/) e compilar AntennaPod ti mesmo!
+AntennaPod plays podcasts just like they were published by the creators. If they
+include ads, AntennaPod plays them. We have nothing to do with those ads, so all
+revenues go to the creators and/or their hosting company.
 
-### 2. Os creadores do podcast ou a súa empresa de aloxamento agregaron os anuncios ás súas notas de presentación ou arquivo de audio
+## Why are ads localized
 
-AntennaPod reproduce podcasts tal como publicáronos os creadores. Se inclúen anuncios, AntennaPod reprodúceos. Non temos nada que ver con eses anuncios, polo que todos os ingresos van aos creadores e/o a súa empresa de aloxamento.
+Now, you might ask something like "But then why is the podcast in English and
+the ad in German?" or "But why is the podcast episode from 2008 but still
+promotes a product released in 2023?". The reason is a technique called _dynamic
+ad insertion_. Podcast creators can instruct the hosting company to insert those
+ads. Then, while downloading or streaming the episode with AntennaPod, the media
+file delivered to AntennaPod gets cut on-the-fly to include the ads. The ads are
+recent (while the episode might not be) and can be targeted based on the IP
+address from which you request the media file (e.g. a company in your country).
+Depending on how smart the hosting company does this, the ads might get inserted
+right in the middle of a sentence. Some of the hosting companies also mess up
+the chapter marks while inserting the ads (so the chapters are off by the
+duration of the ad).
 
-Agora, pode preguntar algo como "Pero entón por que o podcast está en inglés e o anuncio en alemán?" ou "Pero por que o episodio do podcast é de 2008 pero aínda promociona un produto lanzado en 2023?". O motivo é unha técnica chamada *inserción dinámica de anuncios*. Os creadores de podcasts poden indicar á empresa de aloxamento que insira eses anuncios. Logo, mentres descarga ou transmite o episodio con AntennaPod, o arquivo multimedia entregado a AntennaPod córtase sobre a marcha para incluír os anuncios. Os anuncios son recentes (aínda que é posible que o episodio non o sexa) e poden orientarse en función da dirección IP dende a que solicita o arquivo multimedia (por exemplo, unha empresa no seu país). Dependendo de que tan intelixente sexa a empresa de aloxamento, os anuncios poden inserirse xusto no medio dunha oración.
+## What you can do
 
-Sempre pode utilizar o botón de avance rápido de AntennaPod para saltarse os anuncios. Se estás a ver un episodio en streaming en lugar de descargalo, a empresa que o aloxa ten unha idea de ata onde chegaches no podcast. É posible que a empresa detecte que che saltaches o anuncio e #inserir un novo. Se en cambio descargas o episodio, non poden facelo e podes saltarche os anuncios con maior fiabilidade. (A descarga tamén é mellor para a súa privacidade porque entón a empresa de aloxamento non sabe cando escoita que sección do episodio. AntennaPod pode configurarse para que descargue automaticamente os episodios e elimíneos máis tarde, de modo que non teña que facelo manualmente)
+Here is what you can do against those ads.
 
-Ademais, moitos creadores de podcasts ofrecen un canal de contidos sen publicidade que podes comprar. Polo xeral, obtés unha URL de fonte de podcast secreta ou, alternativamente, un nome de usuario e un contrasinal que podes ingresar en AntennaPod.
+### Skipping
 
-Se atopa estes anuncios molestos, considere falar cos creadores de podcasts respecto diso.
+You can always use the fast forward button in AntennaPod to skip the ads. If you
+are streaming an episode instead of downloading, the hosting company has an idea
+of how far you are in the podcast. It might be possible that the company detects
+the fact that you skipped the ad and insert a new one. If you instead download
+the episode, they cannot do that and you can skip the ads more reliably.
+(Downloading is also better for your privacy because then the hosting company
+does not know when you listen to which section of the episode. AntennaPod can be
+configured to automatically download and later delete episodes, so you don't
+have to do that manually.)
+
+### Switch to an ad-free feed
+
+Additionally, many podcast creators provide an ad-free feed that you can buy.
+Usually, you then either get a secret podcast feed URL, or alternatively
+username and password that you can enter in AntennaPod.
+
+If you find these ads annoying, consider talking to the podcast creators about
+this.
