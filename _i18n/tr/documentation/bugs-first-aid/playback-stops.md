@@ -1,3 +1,11 @@
-Örneğin ekranı kapattıktan birkaç saniye sonra veya AntennaPod'u bir süredir açmadığınızda oynatma her zaman duruyorsa , sisteminiz uygulamayı öldürüyor olabilir. Bazı satıcıların pil tasarrufu yapmaya çalışırken aşırı agresif oldukları bilinmektedir. ** Lütfen pil için optimize edilmiş uygulamalar listesine AntennaPod için bir istisna eklemeyi deneyin . ** Bir istisna eklemenin yolu genellikle telefonlar arasında farklılık gösterdiğinden, bir istisnanın nasıl ekleneceğini bilmiyorsanız, telefon markanız ve modeliniz için talimatlar için web'de arama yapmanızı öneririz.
+Örneğin ekranı kapattıktan birkaç saniye sonra veya AntennaPod'u bir süredir
+açmadığınızda oynatma her zaman duruyorsa , sisteminiz uygulamayı öldürüyor
+olabilir. Bazı satıcıların pil tasarrufu yapmaya çalışırken aşırı agresif
+oldukları bilinmektedir. ** Lütfen pil için optimize edilmiş uygulamalar
+listesine AntennaPod için bir istisna eklemeyi deneyin . ** Bir istisna
+eklemenin yolu genellikle telefonlar arasında farklılık gösterdiğinden, bir
+istisnanın nasıl ekleneceğini bilmiyorsanız, telefon markanız ve modeliniz için
+talimatlar için web'de arama yapmanızı öneririz.
 
-Eğer bu işe yaramazsa, [forumumuzda](https://forum.antepod.org ) bulunan AntennaPod katılımcılarına ulaşmaktan çekinmeyin .
+Eğer bu işe yaramazsa, [forumumuzda](https://forum.antennapod.org) bulunan
+AntennaPod katılımcılarına ulaşmaktan çekinmeyin .
