@@ -1,22 +1,42 @@
-Misschien wil je het uitschreeuwen: *Help! Al mijn podcasts, afleveringen en instellingen zijn weg!*
+Misschien wil je het uitschreeuwen: *Help! Al mijn podcasts, afleveringen en
+instellingen zijn weg!*
 
-In een hele oude versie van AntennaPod (van voor 2019) waren er problemen met de database van alle informatie (afleveringen, luisterdata, etc.). Hoewel de oorzaak al lang is opgelost, kan je database beschadigd zijn (zelfs als de app zonder problemen werkte). Als een huidige versie van AntennaPod veranderingen maakt aan de beschadigde delen van de database, kan deze schade opeens een probleem worden. Op dat moment kan AntennaPod niet meer werken met de beschadigde database en moet het opnieuw beginnen met een lege database.
+In een hele oude versie van AntennaPod (van voor 2019) waren er problemen met de
+database van alle informatie (afleveringen, luisterdata, etc.). Hoewel de
+oorzaak al lang is opgelost, kan je database beschadigd zijn (zelfs als de app
+zonder problemen werkte). Als een huidige versie van AntennaPod veranderingen
+maakt aan de beschadigde delen van de database, kan deze schade opeens een
+probleem worden. Op dat moment kan AntennaPod niet meer werken met de
+beschadigde database en moet het opnieuw beginnen met een lege database.
 
-We zijn ons ervan bewust dat het erg frustrerend is als dit gebeurt en het spijt ons als dit jou is overkomen.
+We zijn ons ervan bewust dat het erg frustrerend is als dit gebeurt en het spijt
+ons als dit jou is overkomen.
 
-Er zijn een aantal mogelijkheden om de gegevens te herstellen. We zetten ze hieronder op een rij, te beginnen met de oplossing die het gemakkelijkst is en de beste resultaten geeft:
+Er zijn een aantal mogelijkheden om de gegevens te herstellen. We zetten ze
+hieronder op een rij, te beginnen met de oplossing die het gemakkelijkst is en
+de beste resultaten geeft:
 
-1. Is er recent [een back-up geëxporteerd](/documentation/general/backup) van AntennaPod? Het herstellen is dan relatief eenvoudig: ga naar `Instellingen` » `Opslag` » `Importeren/Exporteren` » `Database importeren` en selecteer het back-up bestand. Let op dat het backup bestand gedeeltelijk gecorrumpeerd kan zijn, dus het is alsnog aan te raden om de tweede stap te doorlopen om het probleem voor eens en altijd op te lossen.
-
-1. Als AntennaPod een kapotte database detecteert, wordt dit weggeschreven naar een bestand met de naam CorruptedDatabaseBackup.db in de opslagmap van de app. Je kunt dit bestand (of een geëxporteerde back-up) proberen te repareren met een [Python script](https://github.com/ByteHamster/AntennaPodDbFixer) dat is ontwikkeld om het herstelproces te automatiseren. Dit is een uitdaging en vereist het leren omgaan met een terminal.
-
-1. Hoewel alle gegevens *over* abonnementen en afleveringen zijn verdwenen, zijn de mediabestanden er nog wel.
-
-
-* Je kan een map in AntennaPod toevoegen als ware het een feed. Om dit te doen, ga je naar `voeg Podcast toe` en tik je op `Voeg lokale map toe`. Dan ga je naar deze map op jouw gsm:
-
-* Op Android 11+:`Android` » `media` » `de.danoeh.antennapod`
-
-* Op Android 10 en eerder: `Android` » `data` » `de.danoeh.antennapod` » `files` » `media` en selecteer vervolgens de map van een podcast. Houd er rekening mee dat dit alleen toegang geeft tot eerder gedownloade media - de nieuwe afleveringen van de podcast zullen niet worden toegevoegd.
-
-* Je kunt ook opnieuw beginnen met het toevoegen van eerdere podcasts. In de bovengenoemde map kun je zien op welke podcasts je geabonneerd was.
+1. Is er recent [een back-up geëxporteerd](/documentation/general/backup) van
+   AntennaPod? Het herstellen is dan relatief eenvoudig: ga naar `Instellingen`
+   » `Opslag` » `Importeren/Exporteren` » `Database importeren` en selecteer het
+   back-up bestand. Let op dat het backup bestand gedeeltelijk gecorrumpeerd kan
+   zijn, dus het is alsnog aan te raden om de tweede stap te doorlopen om het
+   probleem voor eens en altijd op te lossen.
+2. Als AntennaPod een kapotte database detecteert, wordt dit weggeschreven naar
+   een bestand met de naam CorruptedDatabaseBackup.db in de opslagmap van de
+   app. Je kunt dit bestand (of een geëxporteerde back-up) proberen te repareren
+   met een [Python script](https://github.com/ByteHamster/AntennaPodDbFixer) dat
+   is ontwikkeld om het herstelproces te automatiseren. Dit is een uitdaging en
+   vereist het leren omgaan met een terminal.
+3. Hoewel alle gegevens *over* abonnementen en afleveringen zijn verdwenen, zijn
+   de mediabestanden er nog wel.
+  * Je kan een map in AntennaPod toevoegen als ware het een feed. Om dit te
+    doen, ga je naar `voeg Podcast toe` en tik je op `Voeg lokale map toe`. Dan
+    ga je naar deze map op jouw gsm:
+  * Op Android 11+:`Android` » `media` » `de.danoeh.antennapod`
+  * Op Android 10 en eerder: `Android` » `data` » `de.danoeh.antennapod` »
+    `files` » `media` en selecteer vervolgens de map van een podcast. Houd er
+    rekening mee dat dit alleen toegang geeft tot eerder gedownloade media - de
+    nieuwe afleveringen van de podcast zullen niet worden toegevoegd.
+  * Je kunt ook opnieuw beginnen met het toevoegen van eerdere podcasts. In de
+    bovengenoemde map kun je zien op welke podcasts je geabonneerd was.
