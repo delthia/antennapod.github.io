@@ -1,5 +1,17 @@
-Per defecte, tots els pòdcasts s'actualitzen en un interval de 12 hores per arreplegar nous episodis. A `Configuració` » `Baixades` » `Actualitza els pòdcasts` podeu canviar l'interval, seleccionar una hora específica del dia o desactivar les actualitzacions automàtiques.
+Per defecte, tots els pòdcasts s'actualitzen en un interval de 12 hores per
+arreplegar nous episodis. A `Configuració` » `Baixades` » `Actualitza els
+pòdcasts` podeu canviar l'interval, seleccionar una hora específica del dia o
+desactivar les actualitzacions automàtiques.
 
-També podeu desactivar aquest procés per a pòdcasts individuals si no cal mantenir-los actualitzats. Podeu fer-ho servir, per exemple, si ja no es publiquen nous episodis d'un pòdcast en concret. O quan heu afegit un pòdcast del qual només escoltareu un episodi de tant en tant. Per configurar-ho us heu de dirigir a un pòdcast, prémer la icona de l'`Engranatge` i canviar l'opció `Mantenir actualitzat`.
+També podeu desactivar aquest procés per a pòdcasts individuals si no cal
+mantenir-los actualitzats. Podeu fer-ho servir, per exemple, si ja no es
+publiquen nous episodis d'un pòdcast en concret. O quan heu afegit un pòdcast
+del qual només escoltareu un episodi de tant en tant. Per configurar-ho us heu
+de dirigir a un pòdcast, prémer la icona de l'`Engranatge` i canviar l'opció
+`Mantenir actualitzat`.
 
-Quan desactiveu aquesta opció del pòdcast, aquest no s'actualitzarà quan els altres ho facin automàticament, o quan els actualitzeu des de la cua o la pantalla d'episodis. Encara podeu actualitzar aquest pòdcast, afegint així els nous episodis a AntennaPod. Però aquests nous episodis no es podran veure a la pestanya de novetats de la pantalla d'episodis.
+Quan desactiveu aquesta opció del pòdcast, aquest no s'actualitzarà quan els
+altres ho facin automàticament, o quan els actualitzeu des de la cua o la
+pantalla d'episodis. Encara podeu actualitzar aquest pòdcast, afegint així els
+nous episodis a AntennaPod. Però aquests nous episodis no es podran veure a la
+pestanya de novetats de la pantalla d'episodis.
