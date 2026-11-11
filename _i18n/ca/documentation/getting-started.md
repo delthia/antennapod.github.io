@@ -1,10 +1,39 @@
-Per començar, us voldreu subscriure a un pòdcast. Podeu trobar més informació [aquí](/documentation/getting-started/subscribe). Quan uns hàgiu subscrit, veureu els nous episodis a la`Safata d'entrada`. Allà podeu decidir si voleu escoltar-los o no. Si un episodi és a la safata d'entrada, vol dir que encara no heu decidit que voleu fer amb aquest episodi.
+Per començar, us voldreu subscriure a un pòdcast. Podeu trobar més informació
+[aquí](/documentation/getting-started/subscribe). Quan uns hàgiu subscrit,
+veureu els nous episodis a la`Safata d'entrada`. Allà podeu decidir si voleu
+escoltar-los o no. Si un episodi és a la safata d'entrada, vol dir que encara no
+heu decidit que voleu fer amb aquest episodi.
 
-- Si no us interessa l'episodi, llisqueu cap a l'esquerra per suprimir-lo de la safata d'entrada. El capítol encara estarà marcat com a no reproduït i el podeu trobar a la pàgina d'`Episodis`, així com a la pàgina de pòdcasts.
-- Si us interessa un episodi, podeu fer una d'aquestes dues coses, depenent de com us agrada escoltar.
-   - Baixeu l'episodi. Quan el baixeu, AntennaPod també afegeix l'episodi automàticament a la cua i el suprimeix de la safata d'entrada. Hi ha un paràmetre per configurar si voleu que els nous episodis s'afegeixin al final de la cua, al principi o després de l'episodi que s'està reproduint en aquell instant. La baixada és el mode principal com AntennaPod va ser dissenyat originalment, però com que l'streaming s'està fent cada vegada més popular, també podeu fer servir la segona opció.
-   - Simplement afegiu l'episodi a la cua. AntennaPod el suprimeix automàticament de la safata d'entrada i el col·loca a la cua. Després, podeu reproduir l'episodi directament sense haver-lo de baixar, així no ocupa espai. Penseu-hi: Streaming com als vídeos a YouTube. El desavantatge és que no serà disponible sense connexió, consumeix dades mòbils quan sou fora i alenteix una mica l'avanç ràpid.
-- Si heu acabat de reproduir l'episodi, AntennaPod el marca com a reproduït i el suprimeix de la cua. Hi ha un paràmetre per suprimir la baixada automàticament en finalitzar la reproducció. Podeu trobar una llista de tots els episodis que encara són baixats al vostre dispositiu (tant si són a la cua com si no) a la pàgina de `Baixades`.
-- Si us agrada un episodi i us plantegeu tornar-lo a escoltar, podeu marcar-lo com a preferit. Podeu filtrar la pàgina d'`Episodis` perquè només mostri els vostres episodis preferits i (per defecte) AntennaPod no suprimirà els preferits un cop reproduïts.
+- Si no us interessa l'episodi, llisqueu cap a l'esquerra per suprimir-lo de la
+  safata d'entrada. El capítol encara estarà marcat com a no reproduït i el
+  podeu trobar a la pàgina d'`Episodis`, així com a la pàgina de pòdcasts.
+- Si us interessa un episodi, podeu fer una d'aquestes dues coses, depenent de
+  com us agrada escoltar.
+  - Baixeu l'episodi. Quan el baixeu, AntennaPod també afegeix l'episodi
+    automàticament a la cua i el suprimeix de la safata d'entrada. Hi ha un
+    paràmetre per configurar si voleu que els nous episodis s'afegeixin al final
+    de la cua, al principi o després de l'episodi que s'està reproduint en
+    aquell instant. La baixada és el mode principal com AntennaPod va ser
+    dissenyat originalment, però com que l'streaming s'està fent cada vegada més
+    popular, també podeu fer servir la segona opció.
+  - Simplement afegiu l'episodi a la cua. AntennaPod el suprimeix automàticament
+    de la safata d'entrada i el col·loca a la cua. Després, podeu reproduir
+    l'episodi directament sense haver-lo de baixar, així no ocupa espai.
+    Penseu-hi: Streaming com als vídeos a YouTube. El desavantatge és que no
+    serà disponible sense connexió, consumeix dades mòbils quan sou fora i
+    alenteix una mica l'avanç ràpid.
+- Si heu acabat de reproduir l'episodi, AntennaPod el marca com a reproduït i el
+  suprimeix de la cua. Hi ha un paràmetre per suprimir la baixada automàticament
+  en finalitzar la reproducció. Podeu trobar una llista de tots els episodis que
+  encara són baixats al vostre dispositiu (tant si són a la cua com si no) a la
+  pàgina de `Baixades`.
+- Si us agrada un episodi i us plantegeu tornar-lo a escoltar, podeu marcar-lo
+  com a preferit. Podeu filtrar la pàgina d'`Episodis` perquè només mostri els
+  vostres episodis preferits i (per defecte) AntennaPod no suprimirà els
+  preferits un cop reproduïts.
 
-Si esteu subscrit a un pòdcast fantàstic i sabeu que tots els episodis d'aquest seran bons, podeu fer servir l'opció de baixada automàtica. Si l'activeu per a un pòdcast, es baixaran tots els nous episodis i s'afegiran a la cua automàticament. Se suprimiran automàticament de la safata d'entrada un cop es baixin.
+Si esteu subscrit a un pòdcast fantàstic i sabeu que tots els episodis d'aquest
+seran bons, podeu fer servir l'opció de baixada automàtica. Si l'activeu per a
+un pòdcast, es baixaran tots els nous episodis i s'afegiran a la cua
+automàticament. Se suprimiran automàticament de la safata d'entrada un cop es
+baixin.
