@@ -1,5 +1,18 @@
-Standardmäßig werden alle Podcasts in einem Intervall von 12 Stunden aktualisiert, um neue Episoden abzurufen. Über `Einstellungen` » `Downloads` » `Podcasts aktualisieren` kannst du das Intervall ändern oder die automatischen Aktualisierungen deaktivieren.
+Standardmäßig werden alle Podcasts in einem Intervall von 12 Stunden
+aktualisiert, um neue Episoden abzurufen. Über `Einstellungen` » `Downloads` »
+`Podcasts aktualisieren` kannst du das Intervall ändern oder die automatischen
+Aktualisierungen deaktivieren.
 
-Du kannst diesen Vorgang auch für einzelne Podcasts abschalten, wenn es nicht notwendig ist, einen Podcast auf dem neuesten Stand zu halten. Das kannst du zum Beispiel dann tun, wenn für einen Podcast keine neuen Episoden mehr erscheinen. Oder wenn du einen Podcast hinzugefügt hast, von dem du nur gelegentlich eine Episode hören möchtest. Du kannst die Option ändern, indem du zu einem Podcast gehst, auf das `Zahnrad`-Symbol tippst und die Einstellung `Aktuell halten` änderst.
+Du kannst diesen Vorgang auch für einzelne Podcasts abschalten, wenn es nicht
+notwendig ist, einen Podcast auf dem neuesten Stand zu halten. Das kannst du zum
+Beispiel dann tun, wenn für einen Podcast keine neuen Episoden mehr erscheinen.
+Oder wenn du einen Podcast hinzugefügt hast, von dem du nur gelegentlich eine
+Episode hören möchtest. Du kannst die Option ändern, indem du zu einem Podcast
+gehst, auf das `Zahnrad`-Symbol tippst und die Einstellung `Aktuell halten`
+änderst.
 
-Wenn du diese Podcast-Einstellung deaktivierst, wird der Podcast nicht mehr aktualisiert, wenn die Podcasts automatisch aktualisiert werden, oder wenn du diesen Vorgang über `Warteschlange` oder `Episoden` startest. Du kannst diesen Podcast weiterhin aktualisieren, wodurch neue Episoden in AntennaPod angezeigt werden.
+Wenn du diese Podcast-Einstellung deaktivierst, wird der Podcast nicht mehr
+aktualisiert, wenn die Podcasts automatisch aktualisiert werden, oder wenn du
+diesen Vorgang über `Warteschlange` oder `Episoden` startest. Du kannst diesen
+Podcast weiterhin aktualisieren, wodurch neue Episoden in AntennaPod angezeigt
+werden.
